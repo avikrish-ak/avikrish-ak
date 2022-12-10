@@ -3,7 +3,12 @@
 - 🌱 I’m currently learning React and AWS
 - 📫 How to reach me saiavinashkrishnamoorthy@gmail.com
 
-<!---
-avikrish-ak/avikrish-ak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+**Languages and Tools:**  
+
+
+<code><img height="30" alt="python" src="https://user-images.githubusercontent.com/28840761/89373851-5696c900-d71c-11ea-9fad-09e52584c77b.png"></code>
+<code><img height="30" alt="java" src="https://user-images.githubusercontent.com/28840761/89373844-54cd0580-d71c-11ea-8525-e618ed8e029d.png"></code>
+<code><img height="30" alt="selenium" src="http://www.w3.org/2000/svg"></code>
+
