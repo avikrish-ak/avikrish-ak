@@ -20,10 +20,10 @@
 <code><img height="30" alt="aws" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/800px-Amazon_Web_Services_Logo.svg.png"></code>
 
 <a href="https://github.com/avikrish-ak">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avikrish-ak&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avikrish-ak&theme=light&hide_langs_below=1&count_private=true" />
 </a>
 <a href="https://github.com/avikrish-ak">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=avikrish-ak&show_icons=true&theme=light&line_height=27" alt="Avinash Krishnamoorthy's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=avikrish-ak&show_icons=true&theme=light&line_height=27&count_private=true" alt="Avinash Krishnamoorthy's github stats"/>
 </a>
 <p></p>
 <br/>
